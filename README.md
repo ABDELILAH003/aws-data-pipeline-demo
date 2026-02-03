@@ -15,4 +15,12 @@ Design and implement a secure and automated pipeline to upload raw data into Ama
 - boto3
 
 ## 📁 Project Structure
-
+aws-data-pipeline-demo/
+├── app/
+├── data/
+│ └── sample_data.csv
+├── scripts/
+│ └── upload_to_s3.py
+├── screenshots/
+├── requirements.txt
+└── README.md
