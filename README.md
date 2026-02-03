@@ -24,3 +24,8 @@ aws-data-pipeline-demo/
 ├── screenshots/
 ├── requirements.txt
 └── README.md
+## ✅ Results
+
+- Successfully uploaded CSV data to Amazon S3
+- Data organized under a raw ingestion layer
+- Verified access using AWS STS and AWS CLI
